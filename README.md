@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siva Dandem</h1>
 <h3 align="center">Full Stack / Python developer</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&psig=AOvVaw1RrimulcfHDmcIdcQABbyW&ust=1702296111569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICdrZ3phIMDFQAAAAAdAAAAABAD" alt="Me" width="500" height="600">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&psig=AOvVaw1RrimulcfHDmcIdcQABbyW&ust=1702296111569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICdrZ3phIMDFQAAAAAdAAAAABAD](https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg)" alt="Me" width="500" height="600">
 
 
 - 🌱 I’m currently learning **Datastructures**
