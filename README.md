@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Datastructures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sivadandem](https://github.com/sivadandem)
 
 - 💬 Ask me about **Web development and python**
 
