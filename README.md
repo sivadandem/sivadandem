@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack / Python developer</h3>
 
 
-- 🌱 I’m currently learning **Datastructures**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **Web development and python**
 
