@@ -54,11 +54,7 @@ A production-ready job portal built using **React**, JWT Authentication, Protect
 
 ---
 
-### 🔹 **School Management System — Python + Flask**  
-Full-stack system for managing students, teachers, grades, classes, and admin operations.  
-**Tech:** Python, Flask, MySQL, HTML, CSS, JavaScript
 
----
 
 ## 🎯 Currently Working On  
 - End-to-end full-stack projects  
